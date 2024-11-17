@@ -166,6 +166,10 @@ export default {
     cursor: pointer;
   }
 
+  .exit-modal__text:hover {
+    color: #FFF;
+  }
+
   @media (max-width: 768px) { 
 
     .container {
